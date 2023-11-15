@@ -1,0 +1,11 @@
+ESSAY
+   1) framework adalah simplisitas dari bahasa pemrograman. tujuannya agar memudahkan pengodingan dan mempercepat proses mengoding karena lebih mudah dan praktis
+
+   2) 1. Self Service Laundry
+      2. - Farhan Mutawakkil - Backend
+	 - M Zakky Mubarok - Front End
+	 - Laura Amelia - Data Analyst
+      3. Terdapat sebuah masalah pada self service yaitu ketika pada hari weekend, antrian cenderung membludak sehingga menyebabkan antrian panjang. sedangkan alat
+	 yang tersedia pada store laundry terbatas. ini membuat customer menunggu lama untuk mendapat giliran mencuci. hipotesa solusi yang kami usung adalah membuat
+	 sistem booking online pada website/aplikasi laundry untuk bertujuan agar customer bisa datang disaat alat cuci sudah siap digunakan. jadi, tidak perlu lagi
+	 mengantri dan menunggu dengan waktu yang lama.
